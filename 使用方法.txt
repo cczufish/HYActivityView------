@@ -1,0 +1,8 @@
+使用方法:
+1.包含HYActivityView头文件.
+2.使用initWithTitle:referView: 初始化HYActivityView.
+3.使用initWithText:image:handler: 创建ButtonView并绑定事件.
+4.使用addButtonView: 添加到HYActivityView上.
+5.调用show 来显示.
+
+PS:其他自定义设置请查看.h文件
